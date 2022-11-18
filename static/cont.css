@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header img {
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+    border: 20px red;
+    }
+
+h1{
+    color: black;
+}
+h2{
+    color: black;
+}
+.text{
+    padding: 50px 50px;
+}
